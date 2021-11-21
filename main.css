@@ -1,4 +1,5 @@
 .h1{
     background-color: lightblue;
     font-weight: bold;
+    text-overflow: ellipsis;
 }
