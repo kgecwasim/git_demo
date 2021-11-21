@@ -2,4 +2,5 @@
     background-color: lightblue;
     font-weight: bold;
     text-overflow: ellipsis;
+    text-transform: capitalize;
 }
