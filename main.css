@@ -3,4 +3,5 @@
     font-weight: bold;
     color:blue;
     text-decoration: underline;
+    text-overflow: ellipsis;
 }
